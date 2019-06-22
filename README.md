@@ -41,7 +41,7 @@ standard output:
 The format of the alerts produced should be:
 
     { "timestamp": 1554933784.023, "currencyPair": "CNYAUD", "alert": "spotChange" }
-    { "timestamp": 1554933784.023, "currencyPair": "CNYAUD", "alert": "falling", seconds: 3450 }
+    { "timestamp": 1554933784.023, "currencyPair": "CNYAUD", "alert": "falling", "seconds": 3420 }
 
 ### Build and Execution
 
